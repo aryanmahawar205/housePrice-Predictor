@@ -1,4 +1,4 @@
-## This HousePricePrediction ML model uses a dataset with the following columns:
+## This HousePricePrediction ML model uses a dataset with the following features / attributes:
 
 SalePrice - column to be predicted
 
